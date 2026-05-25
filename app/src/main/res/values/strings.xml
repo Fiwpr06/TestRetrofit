@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Testretrofit</string>
+    <string name="title_main">Quản Lý Danh Sách Lớp</string>
+    <string name="hint_ten_lop">Tên Lớp</string>
+    <string name="dialog_add_title">Thêm tên lớp</string>
+    <string name="dialog_update_title">Cập nhật tên lớp</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="confirm_delete_title">Thông báo xác nhận</string>
+    <string name="confirm_delete_msg">Bạn có chắc muốn xóa \'%s\' không ?</string>
+    <string name="item_ten_lop_placeholder">Hiển Thị Tên Lớp</string>
+    <string name="content_desc_add">Thêm lớp</string>
+    <string name="content_desc_edit">Sửa</string>
+    <string name="content_desc_delete">Xóa</string>
+</resources>
